@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+mon nom est David Chouinard et je suis bien heureux que vous soyez venus me visiter sur Github!
+
 <!--
 **ChouinardDavid/chouinarddavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
